@@ -14,9 +14,9 @@ samtaney2009 :
 - resistive MHD simulations associated to loureiro2007
 - in nonlinear regime, plasmoids grow faster than they are ejected...
 - hence the disruption of the current layer
-- this quesiton the stationarity of the SP model
+- this questions the stationarity of the SP model
 - S~10^8 in large tokamaks
-- plasmoid reconnection can be a response to fast reconnection and non-thermal particle accelerationA
+- plasmoid reconnection can be a response to fast reconnection and non-thermal particle acceleration
 - no wave number initially favored and free outflow BC
 - stationary for S < 10^4 (SP)
 
@@ -50,6 +50,12 @@ comisso2016 :
 comisso2016+ :
 
 
+ji2011 :
+
+
+cassak2013 :
+
+
 ugai1977 :
 - first runs with localized resisvitity for petschek
 
@@ -74,4 +80,21 @@ strong modification by 3d effects : not obvious...
 are we in the low-beta approximation ?
 line-out of Vy and Bx at x=0
 line-out of n By, Va and Vx at y=0
+
+
+@ARTICLE{cassak2013,
+       author = {{Cassak}, P.~A. and {Drake}, J.~F.},
+        title = "{On phase diagrams of magnetic reconnection}",
+      journal = {Physics of Plasmas},
+     keywords = {corona, magnetic reconnection, phase diagrams, plasma magnetohydrodynamics, solar flares, 52.35.Vd, 52.80.Hc, 96.60.Hv, 96.60.qe, 52.30.Cv, Magnetic reconnection, Glow, corona, Electric and magnetic fields solar magnetism, Flares, Magnetohydrodynamics},
+         year = 2013,
+        month = jun,
+       volume = {20},
+       number = {6},
+          eid = {061207},
+        pages = {061207},
+          doi = {10.1063/1.4811120},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013PhPl...20f1207C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 
